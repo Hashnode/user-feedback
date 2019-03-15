@@ -2,7 +2,7 @@
 
 This repository is a place for the Hashnode community to share feedback, bug reports, and feature requests. 
 
-***PS: This is not for a place for reporting security vulnerabilities. Please report them by emailing to us at hello@hashnode.com or DM us privately on Twitter.***
+***PS: This is not for a place for reporting security vulnerabilities. Please report them by emailing to us at [hello@hashnode.com](mailto:hello@hashnode.com) or [DM us privately on Twitter[(https://twitter.com/hashnode).***
 
 ## Feature Requests
 
