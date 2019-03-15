@@ -10,7 +10,7 @@ Create a new feature request issue](https://github.com/Hashnode/user-feedback/is
 ## Bugs
 
 [![](https://media.giphy.com/media/t7MWRoExDRF72/200w_d.gif)  
-Report a new bug](https://github.com/Hashnode/user-feedback/issues/new?assignees=&labels=bug&template=bug_report.md&title=)
+Report a bug](https://github.com/Hashnode/user-feedback/issues/new?assignees=&labels=bug&template=bug_report.md&title=)
 
 ## Enhancements
 
