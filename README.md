@@ -2,7 +2,7 @@
 
 This repository is a place for the Hashnode community to share feedback, bug reports, and feature requests. 
 
-Create a [new issue](https://github.com/Hashnode/user-feedback/issues/new) to share your feedback, bug reports, and feature requests. Please use the following labels: 
+[Create a new issue](https://github.com/Hashnode/user-feedback/issues/new) to share your feedback, bug reports, and feature requests. Please use the following labels: 
 
 ## Feature requests
 
