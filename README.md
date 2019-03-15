@@ -2,7 +2,7 @@
 
 This repository is a place for the Hashnode community to share feedback, bug reports, and feature requests. 
 
-## "Feature Request"
+## Feature Requests
 
 [![](https://media.giphy.com/media/E0cyxhawhe9dm/200w_d.gif)  
 Create a new feature request issue](https://github.com/Hashnode/user-feedback/issues/new?assignees=&labels=&template=feature_request.md&title=)  
