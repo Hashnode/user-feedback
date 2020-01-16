@@ -17,3 +17,5 @@ jobs:
         stale-pr-message: 'Hey :wave:, this PR has not received any input for a long while now, we would be closing this, for now, please feel free to re-open.'
         stale-issue-label: 'no-issue-activity'
         stale-pr-label: 'no-pr-activity'
+        days-before-stale: 60
+        days-before-close: 5
